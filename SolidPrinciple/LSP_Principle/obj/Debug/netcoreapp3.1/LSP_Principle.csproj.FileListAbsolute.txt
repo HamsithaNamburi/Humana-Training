@@ -1,0 +1,10 @@
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.exe
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.deps.json
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.runtimeconfig.json
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.runtimeconfig.dev.json
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.dll
+D:\c#\LSP_Principle\bin\Debug\netcoreapp3.1\LSP_Principle.pdb
+D:\c#\LSP_Principle\obj\Debug\netcoreapp3.1\LSP_Principle.AssemblyInfoInputs.cache
+D:\c#\LSP_Principle\obj\Debug\netcoreapp3.1\LSP_Principle.AssemblyInfo.cs
+D:\c#\LSP_Principle\obj\Debug\netcoreapp3.1\LSP_Principle.dll
+D:\c#\LSP_Principle\obj\Debug\netcoreapp3.1\LSP_Principle.pdb

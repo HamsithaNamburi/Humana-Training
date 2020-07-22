@@ -1,0 +1,11 @@
+D:\c#\Bank Application\obj\Debug\netcoreapp3.1\Bank Application.csprojAssemblyReference.cache
+D:\c#\Bank Application\obj\Debug\netcoreapp3.1\Bank Application.AssemblyInfoInputs.cache
+D:\c#\Bank Application\obj\Debug\netcoreapp3.1\Bank Application.AssemblyInfo.cs
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.exe
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.deps.json
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.runtimeconfig.json
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.runtimeconfig.dev.json
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.dll
+D:\c#\Bank Application\bin\Debug\netcoreapp3.1\Bank Application.pdb
+D:\c#\Bank Application\obj\Debug\netcoreapp3.1\Bank Application.dll
+D:\c#\Bank Application\obj\Debug\netcoreapp3.1\Bank Application.pdb

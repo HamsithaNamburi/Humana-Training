@@ -1,0 +1,10 @@
+D:\c#\DIP_Principle\obj\Debug\netcoreapp3.1\DIP_Principle.AssemblyInfoInputs.cache
+D:\c#\DIP_Principle\obj\Debug\netcoreapp3.1\DIP_Principle.AssemblyInfo.cs
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.exe
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.deps.json
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.runtimeconfig.json
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.runtimeconfig.dev.json
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.dll
+D:\c#\DIP_Principle\bin\Debug\netcoreapp3.1\DIP_Principle.pdb
+D:\c#\DIP_Principle\obj\Debug\netcoreapp3.1\DIP_Principle.dll
+D:\c#\DIP_Principle\obj\Debug\netcoreapp3.1\DIP_Principle.pdb

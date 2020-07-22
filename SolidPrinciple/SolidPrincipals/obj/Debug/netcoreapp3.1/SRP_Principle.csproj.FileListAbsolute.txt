@@ -1,0 +1,11 @@
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.exe
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.deps.json
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.runtimeconfig.json
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.runtimeconfig.dev.json
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.dll
+D:\c#\SolidPrincipals\bin\Debug\netcoreapp3.1\SRP_Principle.pdb
+D:\c#\SolidPrincipals\obj\Debug\netcoreapp3.1\SRP_Principle.csprojAssemblyReference.cache
+D:\c#\SolidPrincipals\obj\Debug\netcoreapp3.1\SRP_Principle.AssemblyInfoInputs.cache
+D:\c#\SolidPrincipals\obj\Debug\netcoreapp3.1\SRP_Principle.AssemblyInfo.cs
+D:\c#\SolidPrincipals\obj\Debug\netcoreapp3.1\SRP_Principle.dll
+D:\c#\SolidPrincipals\obj\Debug\netcoreapp3.1\SRP_Principle.pdb

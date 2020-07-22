@@ -1,0 +1,11 @@
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.exe
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.deps.json
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.runtimeconfig.json
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.runtimeconfig.dev.json
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.dll
+D:\c#\OCP_Principle\bin\Debug\netcoreapp3.1\OCP_Principle.pdb
+D:\c#\OCP_Principle\obj\Debug\netcoreapp3.1\OCP_Principle.csprojAssemblyReference.cache
+D:\c#\OCP_Principle\obj\Debug\netcoreapp3.1\OCP_Principle.AssemblyInfoInputs.cache
+D:\c#\OCP_Principle\obj\Debug\netcoreapp3.1\OCP_Principle.AssemblyInfo.cs
+D:\c#\OCP_Principle\obj\Debug\netcoreapp3.1\OCP_Principle.dll
+D:\c#\OCP_Principle\obj\Debug\netcoreapp3.1\OCP_Principle.pdb
