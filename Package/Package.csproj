@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Calculator</AssemblyName>
+    <Description>Performs Addition,Substraction,Division,Multiplecation</Description>
+    <Copyright>Calculator@copyrigths</Copyright>
+    <Company>CalculatorAuthor</Company>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+</Project>

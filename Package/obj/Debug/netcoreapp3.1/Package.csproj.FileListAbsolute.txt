@@ -1,0 +1,7 @@
+D:\c#\Package\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\c#\Package\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\c#\Package\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\c#\Package\obj\Debug\netcoreapp3.1\Package.AssemblyInfoInputs.cache
+D:\c#\Package\obj\Debug\netcoreapp3.1\Package.AssemblyInfo.cs
+D:\c#\Package\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\c#\Package\obj\Debug\netcoreapp3.1\Calculator.pdb
